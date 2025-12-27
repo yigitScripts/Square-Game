@@ -57,3 +57,12 @@ The game grid is generated procedurally:
 + - +   +   +
 | P |   | C |
 + - + - + - +
++ : Nodes
+
+| / - : Lines
+
+P : Player Owned
+
+C : Computer Owned
+
+: : Pre-existing/Ownerless squares
