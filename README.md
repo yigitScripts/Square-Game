@@ -57,6 +57,7 @@ The game grid is generated procedurally:
 + - +   +   +
 | P |   | C |
 + - + - + - +
+
 + : Nodes
 
 | / - : Lines
